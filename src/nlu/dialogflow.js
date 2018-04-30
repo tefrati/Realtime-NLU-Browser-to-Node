@@ -1,3 +1,7 @@
+//  Example for connecting real-time streaming through socket.io to a Node server
+//  Connection to DialogFlow done by Zach (Tzahi) Efrati (Contact: tzahi.efrati@gmail.com)
+//  Feel free to improve!
+
 const dialogflow = require('dialogflow')
 const uuidv4 = require("uuid/v4")
 

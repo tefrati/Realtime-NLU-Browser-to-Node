@@ -1,4 +1,8 @@
-// Google Cloud
+//  Example for connecting real-time streaming through socket.io to a Node server
+//  Originally created by Vinzenz Aubry for sansho 24.01.17 (Contact: vinzenz@sansho.studio)
+//  Improvements and connection to DialogFlow done by Zach (Tzahi) Efrati (Contact: tzahi.efrati@gmail.com)
+//  Feel free to improve!
+
 const Speech = require('@google-cloud/speech')
 const uuidv4 = require("uuid/v4")
 
